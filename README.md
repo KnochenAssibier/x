@@ -1,4 +1,3 @@
-# x
 
 <p>
   <picture>
